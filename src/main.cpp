@@ -1,9 +1,5 @@
 #include <iostream>
 
-
-int main()
-{
-	std::cout << "Good day!";
-
-	return 0;
+int main(int, char**) {
+	std::cout << "Hello, world!\n";
 }
