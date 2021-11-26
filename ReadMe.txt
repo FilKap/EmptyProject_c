@@ -1,3 +1,5 @@
+This is empty project template for C++ projects.
+
 
 To build a project do as follows:
 
@@ -8,7 +10,7 @@ To build a project do as follows:
 3. type 
 cmake ..
 
-4. Go to the ./build directory and launch your project.
+4. Go to the ./build directory, build and launch your project.
 
 
 
