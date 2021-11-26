@@ -1,4 +1,4 @@
-This is empty project template for C++ projects.
+This is empty project template for C projects.
 
 
 To build a project do as follows:
